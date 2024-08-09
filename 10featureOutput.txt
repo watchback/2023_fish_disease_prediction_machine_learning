@@ -1,0 +1,11 @@
+ID	Prediction
+1	Warning
+2	Warning
+3	Warning
+4	Warning
+5	Warning
+6	Infection
+7	Warning
+8	Infection
+9	Infection
+10	Infection
